@@ -25,9 +25,11 @@ A community maintained list of plugins, libraries and programs to assist with bu
 * iOS
   * [ThaanaTextView](https://github.com/jinahadam/ThaanaTextView) - Native Thaana input for iOS, without Jailbreak
   * [ThaanaEditText ](https://github.com/xahy/ThaanaEditText) - Thaana text editor in Swift for UITextField
+  * [Thaana Font Pack](https://medium.com/@reallynattu/install-thaana-dhivehi-fonts-on-ios-devices-249aa6401d1c) - Thaana font pack for iOS
 * OS X
   * [osx_radheef](https://github.com/kudanai/osx_radheef) -  Dhivehi Radheef compiled to work with the built-in dictionary services of OS X  
   * [Thaana-OSX](https://github.com/kudanai/Thaana-OSX) - Starter pack installer for Thaana on OS X
+  * 
 * PHP
   * [DhivehiMVR](https://github.com/Yoo33/DhivehiMVR) - Converts MVR to Thaana text. 
   * [thaana\_conversions\_php](https://github.com/jawish/thaana_conversions_php) - Transliteration of text between various Thaana representation formats.
