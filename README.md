@@ -8,6 +8,7 @@ A community maintained list of plugins, libraries and programs to assist with bu
   * Open Fonts
       * [MV Maliku](http://www.hassanhameed.com/?page_id=269)
       * [MV Typewriter](http://www.hassanhameed.com/?page_id=154) 
+      * [Thaana Unicode Akeh](http://www.wazu.jp/gallery/views/View_ThaanaUnicodeAkeh.html) 
   * Specifications
       * [Microsoft OpenType](https://www.microsoft.com/typography/OpenTypeDev/thaana/intro.htm)   
 * Javascript
@@ -46,3 +47,4 @@ A community maintained list of plugins, libraries and programs to assist with bu
   * [jtk_tinymce](https://github.com/jawish/jtk_tinymce) - Adds integration of [jtk](https://github.com/jawish/jtk)
 * WordPress
   * [thaana-date](https://github.com/wp-plugins/thaana-date) - Replaces the English format of month & days with Thaana
+  * [Thaana-WP](https://wordpress.org/plugins/thaana-wp/) - Thaana input support for Posts/Pages 
