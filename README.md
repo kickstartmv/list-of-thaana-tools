@@ -19,7 +19,7 @@ A community maintained list of plugins, libraries and programs to assist with bu
           * [ngThaana](https://github.com/raftalks/ngThaana) - replaces keyboard inputs to Thaana Unicode
           * [ngThaanaKeyboard](https://github.com/ajaaibu/ngThaanaKeyboard) - Thaana keyboard handler directive
   * JQuery
-      *  [thaanaKeyboard](https://github.com/ajaaibu/thaanaKeyboard) -  Plugin to manipulate thaana keyboard.  
+      *  [thaanaKeyboard](https://github.com/ajaaibu/thaanaKeyboard) -  Plugin to manipulate Thaana keyboard  
 * Microsoft Excel
   * [DhivehiMVR_excel](https://github.com/Yoo33/DhivehiMVR_excel) - Add-on to convert MVR (in numbers) to Thaana text
 * iOS
